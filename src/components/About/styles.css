@@ -1,0 +1,54 @@
+.about{
+    height: 90vh;
+    width: 85vw;
+    margin-left: 80px;
+
+}
+
+.about h2{
+    margin: 35px 0;
+}
+
+.hr{
+    height: 4px;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.parag{
+    width: 600px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+
+.dropdown-content{
+    width: 400px;
+    font-size: 17px;
+    text-align: center;
+}
+
+.dropbtn{
+    padding-top: 20px;
+    font-size: 2rem;
+}
+
+/* .series{
+    border: 1px solid black;
+    padding: 3px;
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+    border-radius: 100%;
+} */
+
+.dropdown hr{
+    height: 4px;
+    background-color: black;
+    /* margin-bottom: px; */
+}

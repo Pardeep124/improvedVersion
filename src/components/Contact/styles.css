@@ -1,0 +1,82 @@
+.about{
+    height: 90vh;
+    width: 85vw;
+    margin-left: 80px;
+}
+
+.about h2{
+    margin: 35px 0;
+}
+
+.hr{
+    height: 4px;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+.contents{
+   display: flex;
+   flex-direction: column;
+}
+
+.para2{
+    width: 280px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.container{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.paragraph{
+    width: 300px;
+
+    font-size: 22px;
+}
+
+.form{
+    width: 500px;
+    padding: 0 50px;
+}
+
+.inputs{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15px;
+}
+
+.name{
+    margin-left: 28px;
+}
+
+.heading{
+    margin-left: 10px;
+}
+.sInput{
+    width: 150px;
+    margin: 10px;
+    background: transparent;
+    border: 1px solid black;
+    padding: 4px;
+    font-size: 16px;
+}
+
+.message{
+    margin-left: 20px;
+}
+
+.messages{
+    width: 340px;
+    height: 150px;
+}
+
+.send{
+    padding: 5px 8px;
+    margin-left: 30px;
+    background: transparent;
+    border: 1px solid black;
+    font-size: 16px;
+}

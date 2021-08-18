@@ -1,0 +1,29 @@
+.contentCreation{
+    width: 85vw;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.contentCreation hr{
+    height: 4px;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+
+.contactLink p{
+    width: 500px;
+    height: 300px;
+    font-size: 26px;
+}
+
+.contactLink h4{
+    margin: 20px 0;
+    font-weight: bold;
+    cursor: pointer;
+}

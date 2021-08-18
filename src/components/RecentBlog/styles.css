@@ -1,0 +1,42 @@
+.recent h1{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.rows{
+    display: flex;
+    justify-content: center;
+}
+
+.blogs{
+    width: 250px;
+    height: 200px;
+    border-right: 2px solid black;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.para{
+ font-size: 16px;
+ font-weight: bold;
+ width: 230px;
+ margin-top: 10px;
+
+}
+.date{
+   font-weight: 250;
+   color: gray;
+   margin-top: 10px;
+}
+
+.see{
+    width: 65px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
